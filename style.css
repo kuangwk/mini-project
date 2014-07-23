@@ -51,6 +51,7 @@ div.card {
   height: 60%;
   overflow-y: auto;
   box-shadow: 5px 5px 10px #aaa;
+  border: 3px solid #ddd;
 }
 
 img.avatar {
